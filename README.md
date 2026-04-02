@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Automated Excel Data Processing & Weekly Price Analysis</b><br>
-  Transform raw steel pricing data into structured insights 🚀
+  Transform raw steel pricing data into structured insights 
 </p>
 
 
